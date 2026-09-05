@@ -1,15 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Box",
+  "%Name":"button_parent",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Box",
+  "name":"button_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"box",
-    "path":"folders/objects/box.yy",
+    "name":"main menu",
+    "path":"folders/menu/main menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,11 +30,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"sprite_Box",
-    "path":"sprites/sprite_Box/sprite_Box.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

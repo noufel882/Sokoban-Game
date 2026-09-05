@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"push_box",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"push_box",
+  "parent":{
+    "name":"player",
+    "path":"folders/objects/player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
