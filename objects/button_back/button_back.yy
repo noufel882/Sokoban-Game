@@ -1,21 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"button_exit",
+  "%Name":"button_back",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"button_exit",
+  "name":"button_back",
   "overriddenProperties":[],
   "parent":{
     "name":"main menu buttons",
     "path":"folders/buttons/main menu buttons.yy",
   },
-  "parentObjectId":{
-    "name":"button_parent",
-    "path":"objects/button_parent/button_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -34,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_button_main_menu_border",
-    "path":"sprites/sprite_button_main_menu_border/sprite_button_main_menu_border.yy",
+    "name":"sprite_button_back",
+    "path":"sprites/sprite_button_back/sprite_button_back.yy",
   },
   "spriteMaskId":null,
   "visible":true,

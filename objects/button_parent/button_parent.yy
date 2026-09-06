@@ -10,8 +10,8 @@
   "name":"button_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"main menu",
-    "path":"folders/menu/main menu.yy",
+    "name":"buttons",
+    "path":"folders/buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,

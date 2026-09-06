@@ -8,11 +8,11 @@ draw_set_valign(fa_middle);
 
 if (position_meeting(mouse_x,mouse_y,id))
 {
-    draw_set_color(c_yellow);
+    draw_set_color(#f3c623);
 }
 
 else {
-	draw_set_color(c_white);
+	draw_set_color(#f4eedb);
 }
 
 

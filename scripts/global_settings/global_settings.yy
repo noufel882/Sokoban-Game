@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"init_enviroment",
+  "%Name":"global_settings",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"init_enviroment",
+  "name":"global_settings",
   "parent":{
-    "name":"menu",
-    "path":"folders/menu.yy",
+    "name":"global",
+    "path":"folders/global.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

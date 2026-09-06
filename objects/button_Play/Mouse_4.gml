@@ -1,1 +1,1 @@
-room = level0;
+change_current_room(level1);

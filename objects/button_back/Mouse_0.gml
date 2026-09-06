@@ -1,0 +1,1 @@
+change_current_room(global.last_room);

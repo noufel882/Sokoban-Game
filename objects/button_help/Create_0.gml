@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-Text = "Exit";
+Text = "Help"

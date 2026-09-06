@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"button_exit",
+  "%Name":"button_replay",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"button_exit",
+  "name":"button_replay",
   "overriddenProperties":[],
   "parent":{
     "name":"main menu buttons",
@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_button_main_menu_border",
-    "path":"sprites/sprite_button_main_menu_border/sprite_button_main_menu_border.yy",
+    "name":"sprite_button_replay",
+    "path":"sprites/sprite_button_replay/sprite_button_replay.yy",
   },
   "spriteMaskId":null,
   "visible":true,
